@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @kenishbhujel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development built in php with laravel, c# , website development , SSRS report, Power Bi etc
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on project 
+- 📫 There are several ways to connect with me you can e-mail kenishvhujel@gmail.com also with phone number 9840995690
 
-<!---
-kenishbhujel/kenishbhujel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
