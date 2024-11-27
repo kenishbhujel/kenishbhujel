@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Kenish Bhujel
 
+![Kenish Bhujel](https://your-image-url.com/your-photo.jpg)
+
 Welcome to my GitHub profile! I'm a **software developer** with a passion for building solutions in various technologies.
 
 ## 👀 What I’m Interested In:
@@ -15,7 +17,7 @@ Welcome to my GitHub profile! I'm a **software developer** with a passion for bu
 - I'm open to collaborating on exciting projects, whether it's building websites, **API integration**, **business intelligence** reports, or **data analysis**. If you have a project that aligns with my skills, feel free to reach out!
 
 ## 📫 How to Reach Me:
-- **Email**: [kenishvhujel@gmail.com](mailto:kenishvhujel@gmail.com)
+- **Email**: [kenishbhujel@gmail.com](mailto:kenishbhujel@gmail.com)
 - **Phone**: 9840995690
 
 ---
@@ -45,13 +47,20 @@ Welcome to my GitHub profile! I'm a **software developer** with a passion for bu
 ## 💻 Projects:
 I’m constantly working on open-source projects, here are some of my contributions:
 
-- **[Meeting Management System]**: Description of the project, technologies used, and the objective.
-- **[Service Tracking System]**: Description of the project, technologies used, and the objective.
+- **[Project 1 Name]**: Description of the project, technologies used, and the objective.
+- **[Project 2 Name]**: Description of the project, technologies used, and the objective.
   
 ---
 
-Feel free to explore my repositories, and if you’d like to collaborate on a project, don’t hesitate to reach out!
+## 🌐 Connect with Me:
+- **[LinkedIn](https://www.linkedin.com/in/kenishbhujel)**: Connect with me on LinkedIn.
+- **[Facebook](https://www.facebook.com/kenish.bhujel76)**: Follow me on Facebook.
+- **[Twitter](https://twitter.com/kenishbhujel)**: Follow me on Twitter.
+- **[Instagram](https://www.instagram.com/kenishbhujel)**: Follow me on Instagram.
+- **[Website](https://your-website-url.com)**: Visit my personal website or blog.
 
 ---
+
+Feel free to explore my repositories, and if you’d like to collaborate on a project, don’t hesitate to reach out!
 
 Thanks for visiting my profile. Let’s build something great together! 🚀
