@@ -1,92 +1,141 @@
-# 👋 Hi, I’m Kenish Bhujel
+# 👋 Hi, I'm Kenish Bhujel
 
 ![Kenish Bhujel](https://www.kenishbhujel.com.np/about.jpg)
 
-Welcome to my GitHub profile! I'm a **software developer** with a strong passion for creating impactful solutions using a variety of technologies. My primary focus is on full-stack development, business intelligence, and cloud infrastructure.
+## 💼 Professional Summary
 
-## 👀 What I’m Interested In:
-- **Software Development** using technologies like:
-  - **PHP** (with **Laravel**) 
-  - **C#**
-  - **JavaScript** (React, Node.js, Next.js)
-- **Web Development** for businesses, schools, e-commerce, hotels & restaurant , as well as booking app.
-- Developing **SSRS reports** and working with **Power BI** for data analysis and business intelligence.
-- **Cloud Infrastructure** and **DevOps** practices, such as working with **Linux**, **OpenStack**, **Docker**, and **Kubernetes**.
+I am a results-driven **Full-Stack Software Developer** specializing in scalable web applications, business intelligence solutions, and cloud infrastructure. I focus on building secure, high-performance systems that support business growth and operational efficiency.
 
-## 🌱 Currently Learning:
-- **Certified Ethical Hacker (CEH)**: Focused on securing web applications and improving security practices in cross-platform development.
-- Exploring **Machine Learning** for better data analysis and integration with business intelligence platforms.
-
-## 💞️ I’m Looking to Collaborate On:
-- I'm open to collaborating on **exciting projects**, whether it's building websites, **systems**, **API integrations**, **business intelligence reports**, or **data analysis**.
-- If you have a project that matches my skills or interests, feel free to reach out. I am always eager to collaborate and learn from new experiences.
-
-## 📫 How to Reach Me:
-- **Email**: [kenishbhujel@gmail.com](mailto:kenishbhujel@gmail.com)
-- **Phone**: +977 9817056436
-- **Website**: [Kenish Bhujel's Website](https://www.kenishbhujel.com.np)
+My expertise includes full-stack development, data analytics, and DevOps practices, with hands-on experience delivering solutions for businesses, educational institutions, hospitality services, e-commerce platforms, and booking systems.
 
 ---
 
-## 🔧 Skills & Technologies:
-- **Programming Languages**: 
-  - PHP (Laravel), C#, JavaScript (Node.js, React, Next.js), Django, API Development
-- **Databases**: 
-  - MySQL, MongoDB, SQL Server, Microsoft SQL Server, PhpMyAdmin
-- **Business Intelligence**: 
-  - Power BI, SSRS Reports, Data Visualizations
-- **Web Servers & Networking**: 
-  - Apache, Nginx (Reverse Proxy Configuration)
-  - **Winbox** for network management
-- **Development Tools**:
-  - **PHPStorm** for PHP development
-  - **VS Code**, **Git**, **Docker**, **Linux (Ubuntu)**
-- **Web Development**:
-  - Full-stack **Laravel** and **React** development
-  - **Laravel** for admin panel development
-  - **API Integration and Development**
-- **Cloud & DevOps**:
-  - **OpenStack**
-  - Containerization with **Docker** and **Kubernetes**
-  - **Linux** system administration
-- **Other Tools**:
-  - **phpMyAdmin** for database management
-  - **RDC** for remote desktop connections
-  - **Bash** and **Command Line** for Linux-based operations
-  - **CI/CD** practices for automated workflows
+## 🔍 Areas of Expertise
+
+### 💻 Software Development
+- PHP (Laravel Framework)
+- C# (.NET Ecosystem)
+- JavaScript (React.js, Node.js, Next.js)
+- RESTful API Design & Integration
+
+### 🌐 Web Application Development
+- Custom business applications
+- School & CRM systems
+- E-commerce platforms
+- Hotel & restaurant management systems
+- Online booking applications
+
+### 📊 Business Intelligence & Reporting
+- SSRS (SQL Server Reporting Services)
+- Power BI Dashboard Development
+- Data Visualization & Analytics
+- SQL-based reporting solutions
+
+### ☁️ Cloud Infrastructure & DevOps
+- Linux Server Administration (Ubuntu)
+- OpenStack Cloud Environment
+- Docker Containerization
+- Kubernetes Orchestration
+- CI/CD Pipeline Implementation
 
 ---
 
-## 💻 Projects:
-Here are some of my notable open-source projects:
+## 📚 Currently Advancing Skills
 
-- **[Service Management System]**: A system for recording the status of repaired devices and providing users with the ability to track their respective devices.
-- **[Meeting Management System]**: Developed for NMC Cooperative Mechinagar, this system helps manage meetings for various branches.
-- **[Bus Management System]**: A college project where users can book bus tickets and communicate with administrators for further queries.
-- **[Movie Site]**: A static movie site developed as part of a college project.
-- **[School Websites]**: A CRM system designed for managing school operations and communication.
-
-Additionally, I am constantly working on new projects, open-source contributions, and learning new technologies to stay up-to-date with industry trends.
+- Certified Ethical Hacker (CEH) – Strengthening expertise in web application security and secure coding practices.
+- Exploring Machine Learning concepts for advanced data analytics and intelligent business reporting integration.
 
 ---
 
-## 🌐 Connect with Me:
-- **[LinkedIn](https://www.linkedin.com/in/kenishbhujel)**: Connect with me on LinkedIn.
-- **[Facebook](https://www.facebook.com/kenish.bhujel76)**: Follow me on Facebook.
-- **[Twitter](https://twitter.com/kenishbhujel)**: Follow me on Twitter.
-- **[Instagram](https://www.instagram.com/kenishbhujel)**: Follow me on Instagram.
-- **[Website](https://kenishbhujel.com.np)**: Visit my personal website or blog for more information.
+## 🤝 Collaboration & Opportunities
+
+I am open to collaborating on:
+
+- Enterprise Web Applications  
+- API Integrations  
+- Business Intelligence Dashboards  
+- System Architecture & Optimization  
+- Cloud Deployment & DevOps Implementation  
+
+If your project aligns with my expertise, feel free to connect.
 
 ---
 
-## 📚 Education:
-- **Bachelor’s in Business Administration**
-  - [Kurukshetra University],2023  
+## 🛠 Technical Skills
+
+### Programming & Frameworks
+- PHP (Laravel)
+- C#
+- JavaScript (React, Node.js, Next.js)
+- Django
+- REST API Development
+
+### Databases
+- MySQL
+- Microsoft SQL Server
+- MongoDB
+- phpMyAdmin
+
+### Business Intelligence Tools
+- Power BI
+- SSRS Reports
+
+### Web Servers & Networking
+- Apache
+- Nginx (Reverse Proxy Configuration)
+- Winbox Network Management
+
+### Development & DevOps Tools
+- PhpStorm
+- Visual Studio Code
+- Git
+- Docker
+- Linux (Ubuntu)
+- Bash / Command Line
+- Remote Desktop (RDC)
+- CI/CD Workflows
+
 ---
 
-## 🚀 Open to Opportunities:
-I’m always open to learning, growing, and collaborating with other developers and professionals. Whether you're interested in working on a new project or discussing the latest trends in web development, feel free to reach out!
+## 🚀 Selected Projects
+
+### 🔹 Service Management System
+A web-based system for tracking repaired devices, enabling customers to monitor service status in real-time.
+
+### 🔹 Meeting Management System
+Developed for NMC Cooperative, Mechinagar, to streamline meeting scheduling and branch coordination.
+
+### 🔹 Bus Management System
+A ticket booking system allowing users to reserve seats and communicate with administrators.
+
+### 🔹 Movie Information Site
+A static movie information platform developed as an academic project.
+
+### 🔹 School CRM System
+A comprehensive system designed to manage school operations, communication, and administrative processes.
 
 ---
 
-Thanks for visiting my profile. Let’s build something great together! 🚀
+## 🎓 Education
+
+**Bachelor of Business Administration (BBA)**  
+Kurukshetra University — 2023  
+
+---
+
+## 📫 Contact Information
+
+- 📧 Email: kenishbhujel@gmail.com  
+- 📱 Phone: +977 9817056436  
+- 🌐 Website: https://kenishbhujel.com.np  
+- 💼 LinkedIn: https://www.linkedin.com/in/kenishbhujel  
+
+---
+
+## 🌟 Professional Philosophy
+
+I am committed to continuous learning, technical excellence, and delivering solutions that create measurable value. I thrive in collaborative environments and continuously explore new technologies and methodologies.
+
+---
+
+⭐ *Thank you for visiting my profile. Let’s build scalable and impactful solutions together.*
