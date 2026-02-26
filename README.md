@@ -40,8 +40,17 @@ My expertise includes full-stack development, data analytics, and DevOps practic
 
 ---
 
-## 📚 Currently Advancing Skills
 
+## 📚 Currently Learning & Working On
+
+- Working as a **CAFM Administrator** (Computer-Aided Facility Management)
+  - Asset Management
+  - Preventive & Corrective Maintenance Tracking
+  - Work Order Management
+  - Reporting & Data Analysis
+  - System Configuration & Optimization
+- Certified Ethical Hacker (CEH)
+- Exploring Machine Learning for Business Intelligence integration
 - Certified Ethical Hacker (CEH) – Strengthening expertise in web application security and secure coding practices.
 - Exploring Machine Learning concepts for advanced data analytics and intelligent business reporting integration.
 
