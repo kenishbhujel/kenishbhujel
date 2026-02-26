@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **software developer** with a strong passion
   - **PHP** (with **Laravel**) 
   - **C#**
   - **JavaScript** (React, Node.js, Next.js)
-- **Web Development** for businesses, schools, e-commerce, and more.
+- **Web Development** for businesses, schools, e-commerce, hotels & restaurant , as well as booking app.
 - Developing **SSRS reports** and working with **Power BI** for data analysis and business intelligence.
 - **Cloud Infrastructure** and **DevOps** practices, such as working with **Linux**, **OpenStack**, **Docker**, and **Kubernetes**.
 
